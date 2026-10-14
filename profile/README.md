@@ -15,7 +15,7 @@
 
 </div>
 
-Delta MCP is a free app that sits between your AI apps and their MCP servers (Notion, GitHub, your files…). It checks each task before it runs, applies it all or nothing, reads back what it changed and lets you undo it.
+Delta MCP is a free app that sits between your AI apps and their MCP servers: any server, every tool. It checks each task before it runs, applies it all or nothing, reads back what it changed and lets you undo it.
 
 > ⭐ **Back Delta MCP with a star.** Open [mcpdelta/mcpdelta](https://github.com/mcpdelta/mcpdelta) and click **Star**. It takes one second, it’s free, and it helps other people who use MCP find Delta MCP before launch.
 
